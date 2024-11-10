@@ -12,8 +12,13 @@ I am focused on enhancing my skills in Python, SQL, and Machine Learning,
 and I'm actively exploring data visualization and statistical analysis.
 
 🔧 Skills & Tools
+
 Languages: Python, SQL,java, c/c++, javascript 
+
 Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn
+
 Data Visualization: Matplotlib
+
 Machine Learning: Regression, Classification
+
 Other Tools: Excel, Jupyter Notebook
